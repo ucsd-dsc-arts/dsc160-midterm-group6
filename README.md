@@ -8,6 +8,8 @@ Project Team Members:
 ● Iman Nematollahi,** ​ **imnemato@ucsd.edu
 ● Andrew Shin,** ​ **sgs008@ucsd.edu**
 
+*Images will not show in readme, but they are present in the Gradescope and the results folder in the repository.
+
 ## Abstract ​ :
 
 As is the case with many young people today, hip-hop has played a significant role in the
